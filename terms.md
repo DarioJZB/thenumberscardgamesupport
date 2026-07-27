@@ -2,19 +2,19 @@
 
 **Last Updated: December 29, 2025**
 
-## Basic Math Game Terms of Use
+## The Numbers Card Game Terms of Use
 
-By using Basic Math Game, you agree to these terms.
+By using The Numbers Card Game Support, you agree to these terms.
 
 ### Use of the App
 
-- The app is provided for educational purposes
+- The app is provided for entertainment purposes
 - You may use the app for personal, non-commercial use
 - You must not attempt to reverse engineer or modify the app
 
 ### Subscriptions
 
-- Premium subscriptions are billed annually through Apple
+- Premium subscriptions are billed monthly through Apple
 - Subscriptions auto-renew unless cancelled at least 24 hours before the end of the current period
 - You can manage and cancel subscriptions in your Apple ID account settings
 - No refunds for partial subscription periods
@@ -26,7 +26,7 @@ By using Basic Math Game, you agree to these terms.
 
 ### Disclaimer
 
-The app is provided "as is" without warranties of any kind. We are not responsible for any learning outcomes.
+The app is provided "as is" without warranties of any kind. We are not responsible for any outcomes.
 
 ### Contact
 

@@ -1,2 +1,2 @@
-# basic-math-game-support
-Basic Math Game Support page
+# The Numbers Card Game Support
+Numbers Card Game Support Page

@@ -16,7 +16,7 @@ We typically respond within 24-48 hours.
 Go to the settings screen, then tap "Restore Purchases" on the premium screen.
 
 ### How do I cancel my subscription?
-Subscriptions are managed through your Apple ID. Go to Settings → Your Name → Subscriptions → Basic Math Game → Cancel.
+Subscriptions are managed through your Apple ID. Go to Settings → Your Name → Subscriptions → The Numbers Card Game → Cancel.
 
 ### The app isn't working correctly
 Try closing and reopening the app. If the issue persists, please email us with details about what's happening.

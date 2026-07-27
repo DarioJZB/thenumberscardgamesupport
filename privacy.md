@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated: December 29, 2024**
+**Last Updated: July 27, 2026**
 
-## Basic Math Game Privacy Policy
+## The Numbers Card Game Privacy Policy
 
 ### Information We Collect
 
@@ -24,11 +24,10 @@ Subscription purchases are processed by Apple. We use RevenueCat to manage subsc
 
 ### Data Storage
 
-Your game progress is stored locally on your device and, if you sign in, synced through secure cloud services.
+We don't store any private information.  We only keep your chosen username
 
 ### Third-Party Services
 
-- **Apple Sign-In** - For authentication
 - **RevenueCat** - For subscription management
 
 ### Children's Privacy

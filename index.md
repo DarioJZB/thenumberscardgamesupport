@@ -1,4 +1,4 @@
-# Basic Math Game Support
+# The Numbers Card Game Support
 
 ## Contact Us
 
@@ -13,7 +13,7 @@ We typically respond within 24-48 hours.
 ## Frequently Asked Questions
 
 ### How do I restore my subscription?
-Go to the sign-in screen, sign in with your Apple ID, then tap "Restore Purchases" on the premium screen.
+Go to the settings screen, then tap "Restore Purchases" on the premium screen.
 
 ### How do I cancel my subscription?
 Subscriptions are managed through your Apple ID. Go to Settings → Your Name → Subscriptions → Basic Math Game → Cancel.
@@ -25,7 +25,7 @@ Try closing and reopening the app. If the issue persists, please email us with d
 
 ## About
 
-Basic Math Game was created by a math teacher with over 10 years of classroom experience to help students build strong foundational math skills.
+The Numbers Card Game Support was created by a math teacher with over 10 years of classroom experience to help everyone build logical skills.
 
 ---
 

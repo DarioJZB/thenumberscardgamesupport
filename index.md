@@ -29,6 +29,6 @@ The Numbers Card Game Support was created by a math teacher with over 10 years o
 
 ---
 
-© 2025 Juice Games
+© 2026 Juice Games
 ```
 
